@@ -1,3 +1,5 @@
+# 此 REPO 已 Archive, 关于 Logger v2, 请前往 https://dr.shenjack.top/main/lib-not-dr/loggers 查看更多信息
+
 ## 自己手写的 logger
 >不喜勿喷
 >
